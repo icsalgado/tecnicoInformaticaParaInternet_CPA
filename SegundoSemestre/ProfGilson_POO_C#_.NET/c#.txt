@@ -1,0 +1,18 @@
+
+
+
+.NET é uma plataforma ou ambiente de execução - Conjunto de bibliotecas
+Foi criada com objetivo de substituir o Java que na epoca era muito ruim, sendo assim foi criado o .NET com suporte a multiplas linguagens.
+
+C# é uma linguagem queusa as bibliotecas da plataforma .NET
+assim como F# e VisualBasic.net, sendo assim as mesmas coisas podem ser criadas com todas estas linguagens
+
+.NET FRAMEWORK roda em windows
+.NET CORE roda em windows, mac e linux
+XAMARIN roda em IOS Android e mac
+	Em qualquer uma das plataformas (3) o C# é o mesmo
+MONO roda em qualquer sistema e cria qualquer coisa
+
+POO C#
+Recomendação de video prof Gilson
+https://www.devmedia.com.br/csharp-switch-case/38214

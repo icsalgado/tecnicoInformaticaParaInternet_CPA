@@ -1,0 +1,11 @@
+Programação Web Gilson
+
+Junções para acessar mais de uma tabela em um mesmo select, devemos realizar operações chamadas de junções
+
+	junção interna (inner join)
+		tudo que está presente em duas tabelas
+		SELECT * FROM tbcliente INNER JOIN tbtelefone ON tbtelefone.idcliente = tbcliente;
+		
+		SELECT tbcliente.nome, numero, cpf, dtanascimento, DDD FROM tbcliente INNER JOIN tbtelefone ON tbtelefone.idcliente=tbcliente.idcliente INNER JOIN tbcidade ON tbcidade.idcidade=tbtelefone.idcidade;
+		
+		

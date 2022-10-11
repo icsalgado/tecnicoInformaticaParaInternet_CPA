@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 1 Javascript</title>
+</head>
+<body>
+    <h1>Aula 1 Javascript</h1>
+    <p>Existem duas formas de incorporar o Javascrip numa pagina HTML</p>
+    <div><!--código no corpo da pagina-->
+        <h4 id="div1"><!-- aqui vai entrar o script usando getElementById --> </h4>
+        <script>
+            document.getElementById("div1").innerHTML="Esta linha foi inserida usando o id da tag no corpo do HTML ";
+            document.write('Esta linha também foi adicionada direto no corpo do HTML');
+            console.log('Este log foi gerado dentro da pagina HTML');
+            alert('caixa gerada dentro do corpo do HTML');
+        </script>
+    </div>
+
+    <div><!-- código externo -->
+        <h4 id="div2"><!-- aqui vai entrar o script usando getElementById --> </h4>
+        <script src="script.aula1.js"></script>
+    </div>
+
+</body>
+</html>

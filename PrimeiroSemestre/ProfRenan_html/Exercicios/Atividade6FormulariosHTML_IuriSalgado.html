@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Inscrição</title>
+</head>
+<body>
+    <div name="cabecalho">
+        <p><b>
+            Colégio Protásio Alves - Curso Técnico Profissionalizante de Informática e Informática para Internet
+            <br>Componente Curricular: Linguagem Web I /Programação Visual
+            <hr width="750" align="left" color="black" size="1">
+        </b></p>
+    </div>
+    <div name="titulo">
+        <h3><b>Cadastro de Inscrição de Alunos - Curso Técnico Profissionalizante de Informática</b></h3>
+        <hr width="750" align="left" color="black" size="1">        
+    </div>
+    <div name="formulario">
+        <form name="cadastro" action="#" method="GET">
+            Nome:
+            <input type="text" name="nome" required size="50">
+            <br><br>
+            Endereço:
+            <input type="text" action="#" method="GET" required size="50">
+            <br><br>
+            Cidade:
+            <input type="text" action="#" method="GET" required size="50">
+            <br><br>
+            Estado:
+            <select name="estado">
+                <option value="rs">RS</option>
+                <option value="sc">SC</option>
+                <option value="pr">PR</option>
+                <option value="sp">SP</option>
+                <option value="rj">RJ</option>
+                <option value="go">GO</option>
+            </select>
+            <br><br>
+            Profissão:
+            <select name="profissao">
+                <option value="dev">Programador</option>
+                <option value="as">Analista de sistemas</option>
+                <option value="gr">Gestor de redes</option>
+                <option value="gp">Gerente de Projeto</option>
+                <option value="devo">Devops</option>
+                <option value="devm">Desenvolvedor mobile</option>
+            </select>
+            <br><br>
+            Sexo:
+            <input type="radio" name="sex" value="masculino">Masculino
+            <input type="radio" name="sex" value="feminino">Feminino
+            <br><br>
+            Hobbyes:
+            <input type="checkbox" name="leitura">Leitura
+            <input type="checkbox" name="futebol">Futebol
+            <input type="checkbox" name="culinaria">Culinária
+            <input type="checkbox" name="caminhada">Caminada
+            <input type="checkbox" name="tv">TV
+            <input type="checkbox" name="cinema">Cinema
+            <br><br>
+            <table name="curso" border="0">
+                <tr>
+                    <td>Cursos Pretendidos:</td>
+                    <td><input type="checkbox" name="devsoft">Desenvolvimento de software</td>
+                    <td><input type="checkbox" name="rede">Rede de Computadores</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="checkbox" name="infra">Infra-Estrutura</td>
+                    <td><input type="checkbox" name="robotica">Robótica básica</td>
+                </tr>
+            </table>
+            <br>
+            <input type="submit">
+            <button type="reset">limpar</button>
+        </form>
+    </div>
+    
+    <p>------------------------------------------------------------------------------------------------------------------------------------------------</p>
+</body>
+</html>

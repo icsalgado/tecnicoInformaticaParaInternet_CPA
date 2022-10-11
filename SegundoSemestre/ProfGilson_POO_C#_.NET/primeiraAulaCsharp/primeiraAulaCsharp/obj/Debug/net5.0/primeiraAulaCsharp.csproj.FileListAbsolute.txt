@@ -1,0 +1,16 @@
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\bin\Debug\net5.0\primeiraAulaCsharp.exe
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\bin\Debug\net5.0\primeiraAulaCsharp.deps.json
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\bin\Debug\net5.0\primeiraAulaCsharp.runtimeconfig.json
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\bin\Debug\net5.0\primeiraAulaCsharp.runtimeconfig.dev.json
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\bin\Debug\net5.0\primeiraAulaCsharp.dll
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\bin\Debug\net5.0\ref\primeiraAulaCsharp.dll
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\bin\Debug\net5.0\primeiraAulaCsharp.pdb
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\primeiraAulaCsharp.csproj.AssemblyReference.cache
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\primeiraAulaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\primeiraAulaCsharp.AssemblyInfoInputs.cache
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\primeiraAulaCsharp.AssemblyInfo.cs
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\primeiraAulaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\primeiraAulaCsharp.dll
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\ref\primeiraAulaCsharp.dll
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\primeiraAulaCsharp.pdb
+C:\Users\ICSalgado\Source\Repos\primeiraAulaCsharp\primeiraAulaCsharp\obj\Debug\net5.0\primeiraAulaCsharp.genruntimeconfig.cache

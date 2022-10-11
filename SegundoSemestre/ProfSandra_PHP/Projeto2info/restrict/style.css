@@ -1,0 +1,37 @@
+*{
+    /*Configurações de estilo genéricas - reset de margens*/
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans' sans-serif;
+}
+
+.login-page{
+    /**/
+    background-color: rgb(54, 53, 53);
+    color: white;
+}
+
+.menu-login{
+    /**/
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.viewmain{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+
+.card{
+    text-align: center;
+    width: 300px;
+}
+
+.btn{
+    /**/
+    background-color: #122A57;
+}
+

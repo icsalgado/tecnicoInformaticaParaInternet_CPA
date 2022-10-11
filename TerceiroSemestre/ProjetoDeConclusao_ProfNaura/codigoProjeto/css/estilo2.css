@@ -1,0 +1,125 @@
+
+		.topo{
+			text-align: center;
+			background-color: #ffffff;
+			height: 100px;
+		}
+		h1{
+			text-align: center;
+			font-family: verdana;
+			text-shadow: 2px 2px 2px #fcfcff;
+		}
+		.pesquisa{
+			text-align: right;
+		}
+		
+		.conteudo{
+			text-align: center;
+			font-family: verdana;
+			font-size: 16px;
+			padding: 20px;
+		}
+		.rodape{
+			text-align: center;
+			font-family: verdana;
+			text-shadow: 2px 2px 2px #000;
+			color: #fff;
+			background-color: #191970;
+		}
+		h3{
+			text-align: center;
+			font-family: verdana;
+			font-size: 18px;
+		}
+
+
+
+
+
+        
+        @media (min-width:1000px){
+			
+			body, td {
+			/*font-size:13px;*/
+			font-size:15px;
+			}
+			input, select{
+			font-size:100%; 
+			width:300px;
+			}
+			input {
+			min-width:200px;
+			width: 360px;
+			}
+			td {
+			padding-top: 7px;
+			padding-left: 30px;
+			padding-bottom:7px;
+			/*border-bottom-width: 0px;*/
+			font-size:14px;
+			min-width: 143px;
+			border-bottom: solid;
+			border-width: 1px;
+			border-color:#f2666f; 
+			}
+			
+			tr {
+				min-height:70px;
+				height:70px;
+			}
+			
+			.tipodoacao {
+				width:100%!important;
+				max-width: 1000px;
+
+			}
+			.botao-proximo, .botao-anterior, .botao-conclusao {
+			font-weight: bold;
+			text-transform: uppercase;
+			display: inline-block;
+			padding: 15px 20px;
+			line-height: normal;
+			border: 1px solid transparent;
+			background-image: none;
+			text-shadow: none;
+			text-decoration: none;
+			border-radius:9px;
+			margin-top:20px;
+			width: 150px;
+			cursor: pointer;
+			}
+	
+			.calendario{
+			float: left !important;
+			margin-right: 50px;
+			}
+			.confira{
+			font-size: 130%;
+			}
+			.ddd {
+			width:85px;
+			min-width:30px;
+			margin-right:8px;
+			margin-bottom:8px;
+			}
+			
+			.telefone {
+			width:275px;
+			}
+			
+			.qtde {
+			width:60px;
+			float:left;
+			padding: 10px;
+			background-color:rgba(255, 255, 255, 0);
+			color:white;
+			font-size:130%;
+			font-weight:bold;
+			min-width:40px;
+			-webkit-appearance: none; 
+			appearance: none; /*menulist*/
+			text-shadow: 1px 1px 1px #8e8e8e;
+			}
+			
+			}
+			

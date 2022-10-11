@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "primeiraAulaCsharp/1.0.0": {
+        "runtime": {
+          "primeiraAulaCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "primeiraAulaCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

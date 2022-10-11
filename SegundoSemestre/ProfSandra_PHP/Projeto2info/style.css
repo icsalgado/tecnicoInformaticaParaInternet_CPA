@@ -1,0 +1,117 @@
+*{
+    /*Configurações de estilo genéricas - reset de margens*/
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans' sans-serif;
+}
+
+.initial-bg{
+    /**/
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)), url('./assets/img/raceasone.jpg');
+}
+
+ul{
+    /**/
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a{ 
+    text-decoration: none;
+    color: white;
+}
+
+.flex-container{
+    /*Configuração para usar flexbox do CSS*/
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
+
+.initial-page{
+    /*Ajuste da linha de menu*/
+    display: flex;
+    background-color: rgb(54, 53, 53);
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+    padding: 10px;
+}
+
+.menu-list{
+    /*Ajustes da lista de menu*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 140px;
+    width: 100%;
+}
+
+.menu{
+    /*Espaço entre o nome da página e o menu*/
+    display: flex;
+    justify-content: space-between;
+}
+
+.main{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+/*carrosel*/
+.card{
+    /**/
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 150px;
+}
+
+
+/*pagina de login*/
+.login-bg{
+    /**/
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)), url('./assets/img/fibg.jpg');
+}
+
+.login-page{
+    /**/
+    background-color: #ff0000;
+    color: white;
+}
+
+.menu-login{
+    /**/
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.login-data{
+    /**/
+    justify-content: center;
+    color: white;
+}
+
+.btn{
+    /**/
+    background-color: #122A57;
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    width: 80px;
+    height: 40px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+

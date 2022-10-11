@@ -1,0 +1,44 @@
+﻿
+
+
+@{
+    ViewBag.Title = "Listar";
+}
+
+
+<h2>Listar</h2>
+
+<button type="button" class="btn btn-primary">Salvar</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> Nome</th>
+            <th> Sexo</th>
+            <th> Salário</th>
+            <th> Ação</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pessoa in ViewBag.ListaDePessoa)
+        {
+        <tr>
+            <th> @pessoa.Nome </th>
+            <th> @pessoa.Sexo </th>
+            <th> @pessoa.Salario </th>
+            <th>
+                <button type="button" class="btn btn-success" id="editar" >Editar</button>
+                @Html.ActionLink("Deletar","DeletarPessoa", new { idAluno = @pessoa.idAluno}, new { @class = "btn btn-success" }) 
+            </th>
+        </tr>
+        }
+
+    </tbody>
+</table>
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script type="text/javascript">
+    $('#editar').click(function () {
+        alert("teste de javascript");
+    })
+</script>

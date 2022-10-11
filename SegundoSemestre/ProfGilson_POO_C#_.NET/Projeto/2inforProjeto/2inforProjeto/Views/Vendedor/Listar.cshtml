@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar de Vendedores</h2>
+
+<button type="button" class="btn btn-primary">Novo Vendedor</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> Nome</th>
+            <th> CPF</th>
+            <th> RG</th>
+            <th> Ação</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vendedor in ViewBag.ListadeVendedor)
+        {
+            <tr>
+                <th> @vendedor.Nome </th>
+                <th> @vendedor.CPF </th>
+                <th> @vendedor.RG </th>
+                <th>
+                    @Html.ActionLink("Editar", "Editar", new { idVendedor = @vendedor.idVendedor }, new { @class = "btn btn-success" })
+
+                    @Html.ActionLink("Deletar", "Deletar", new { idVendedor = @vendedor.idVendedor }, new { @class = "btn btn-success" })
+
+                </th>
+            </tr>
+        }
+
+    </tbody>
+</table>

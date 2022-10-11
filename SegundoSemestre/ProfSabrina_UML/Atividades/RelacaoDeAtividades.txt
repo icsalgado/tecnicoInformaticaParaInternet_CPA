@@ -1,0 +1,25 @@
+Atividade2 - UML  - Elaboração Diagramas Caso de Uso
+Sabrina Silva da Silveira
+•
+Ontem
+100 pontos
+Data de entrega: 12 de nov. 23:59
+Considere a seguinte situação:
+O cliente navega pelo catálogo e adiciona os itens desejados ao carrinho de compras. Quando o cliente desejar pagar, ele preenche os dados para entrega e da forma de pagamento, confirmando a compra no final. O sistema verifica o cartão de crédito, tenta passar a compra no cartão e confirma a venda com o envio de um e-mail.
+
+
+
+Elabore um Diagrama de Caso de Uso com esta situação. O que está em negrito, são sugestões para representar o casos de uso. Os atores são o Cliente e o Sistema.
+
+
+O Diagrama deve ser feito no power point ou nas ferramentas sugeridas.
+
+Atividade1 - Diagrama de caso de uso
+Sabrina Silva da Silveira
+•
+20 de set.
+100 pontos
+Data de entrega: 28 de set. 23:59
+Desenvolva um diagrama de caso de uso para um sistema de Biblioteca (empréstimo de livros). Siga o modelo do material Introdução a Orientação a Objetos. 
+
+Dica: utilize power point (editor de apresentação) para criar o diagrama.

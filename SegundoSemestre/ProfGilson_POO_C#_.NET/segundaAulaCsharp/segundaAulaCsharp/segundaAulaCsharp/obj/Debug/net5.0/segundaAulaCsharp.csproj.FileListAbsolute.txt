@@ -1,0 +1,16 @@
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\bin\Debug\net5.0\segundaAulaCsharp.exe
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\bin\Debug\net5.0\segundaAulaCsharp.deps.json
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\bin\Debug\net5.0\segundaAulaCsharp.runtimeconfig.json
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\bin\Debug\net5.0\segundaAulaCsharp.runtimeconfig.dev.json
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\bin\Debug\net5.0\segundaAulaCsharp.dll
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\bin\Debug\net5.0\ref\segundaAulaCsharp.dll
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\bin\Debug\net5.0\segundaAulaCsharp.pdb
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\segundaAulaCsharp.csproj.AssemblyReference.cache
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\segundaAulaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\segundaAulaCsharp.AssemblyInfoInputs.cache
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\segundaAulaCsharp.AssemblyInfo.cs
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\segundaAulaCsharp.csproj.CoreCompileInputs.cache
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\segundaAulaCsharp.dll
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\ref\segundaAulaCsharp.dll
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\segundaAulaCsharp.pdb
+\\VBOXSVR\ProfGilsonCsharpPOO\segundaAulaCsharp\segundaAulaCsharp\segundaAulaCsharp\obj\Debug\net5.0\segundaAulaCsharp.genruntimeconfig.cache

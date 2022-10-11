@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>IMC</title>
+</head>
+<body>
+    <form action="#">
+        <fieldset>
+            <header>
+                <h1 id="title">Calcule seu IMC</h1>
+            </header>
+            <section class="form">
+                <p>Digite seu nome</p>
+                <input type="text" id="name">
+                <p>Digite sua altura</p>
+                <input type="text" id="height">
+                <p>Digite seu peso</p>
+                <input type="text" id="weight">
+                <p><button onclick="showCalc()">Clacular</button></p>
+            </section>
+            <section class="result">
+                <p id="imc">Seu IMC é </p>
+                <p id="classification"></p>
+                <p id="message"></p>
+            </section>
+        </fieldset>
+    </form>
+    <script src="./script.js"></script>
+</body>
+</html>
