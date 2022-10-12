@@ -5,7 +5,7 @@
 
 # <a href="https://www.facebook.com/protasio.alves.393/" target="_blank"><img src="./.cpa.png" width="40px"> Colegio Estadual Protásio Alves</a>
 
-Av. Ipiranga, 1090 - Azenha, Porto Alegre - RS
+Av. Ipiranga, 1090 - Azenha, Porto Alegre - RS - Brasil
 
 <!--linkedin-->
 <a href="https://www.linkedin.com/in/icsalgado/" target="_blank"><img src="./.lkn.png" width="20px"></a> 
