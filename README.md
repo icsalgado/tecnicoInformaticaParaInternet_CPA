@@ -12,7 +12,7 @@ Av. Ipiranga, 1090 - Azenha, Porto Alegre - RS
 
 <!--Descrição do repositório-->
 ## O que vais encontrar por aqui...
-> A intenção é compartilhar o conteúdo abordado e praticado durante os 3 semetres do curso.<br>Sendo assim, não se pode tomar como verdade absoluta as anotações feitas tão pouco os exercicos desenvolvidos, aliás a verdade absoluta nem é algo que devemos procurar!<br>A idéia aqui é incentivar e que sabe ajudar outros que como eu, buscam trilhar este caminho.<br>Então, explore com cuidade e tente entender o contexto se for usar alguma coisa presente aqui neste repositório.<br>Bons estudos!!!
+> A intenção é compartilhar o conteúdo abordado e praticado durante os 3 semetres do curso.<br>Sendo assim, não se pode tomar como verdade absoluta as anotações feitas tão pouco os exercicos desenvolvidos, aliás a verdade absoluta nem é algo que devemos procurar!<br>A idéia aqui é incentivar e quem sabe ajudar outros que como eu, buscam trilhar este caminho.<br>Então, explore com cuidado e tente entender o contexto se for usar alguma coisa presente aqui neste repositório.<br>Bons estudos!!!
 
 ## What you’ll find around here...
 > The intention is to share the content covered and practiced during the 3 stages of the course.<br>The idea here is to encourage and help those who seek to walk this path.<br>So, explore carefully and try to understand the context if you are going to use something present here in this repository.<br>Good studies!!!
@@ -22,12 +22,14 @@ Av. Ipiranga, 1090 - Azenha, Porto Alegre - RS
 
 >> JavaScript, PHP, C#, Java
 
->> SQL - mysl/mariaDB
+>> SQL - mysql/mariaDB
 
 >> UML, POO, Logic, OS
 
+>> Network Protocols, Structured cabling, Computer maintenance 
+
 ### Competências e carga horária (CH do curso 1080 horas)
-- Aplicar a instação dos componentes de um computador e seus periféricos e de serviços de rede. 75hrs
+- Aplicar a instalação dos componentes de um computador e seus periféricos e de serviços de rede. 75hrs
 - Interpretar as técnicas de analises. 45hrs
 - Interpretar e solucionar problemas lógicos para desenvolver programas. 60hrs
 - Operar diferentes sistemas operacionais. 105hrs
